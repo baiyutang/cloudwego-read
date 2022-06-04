@@ -20,7 +20,7 @@
 ### 服务治理
 - 服务注册与发现
 - 熔断
-- 限流
+- [限流](https://xie.infoq.cn/article/408cd95d469ee2cdc72c1cd10)
 - 请求重试
 - 负载均衡
 
