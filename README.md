@@ -12,7 +12,7 @@
 ## Kitex
 
 ### 公开资料
-- [github/cloudWeGo/kitex](https://github.com/cloudwego/kitex)
+- [github/cloudwego/kitex](https://github.com/cloudwego/kitex)
 - [cloudwego.io/kitex](https://www.cloudwego.io/zh/docs/kitex/)
 - [字节跳动微服务架构体系演进 - 成国柱](https://cloudwego.feishu.cn/docs/doccnyu0JEq4DiKwuKATn3MxIOf)
 - [Go 组件设计与实现 - 掘金小册](https://juejin.cn/video/7046282096435789835)
