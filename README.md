@@ -11,7 +11,7 @@
 
 ## Kitex
 
-### 公开资料
+### 学习资料
 - [github/cloudwego/kitex](https://github.com/cloudwego/kitex)
 - [cloudwego.io/kitex](https://www.cloudwego.io/zh/docs/kitex/)
 - [字节跳动微服务架构体系演进 - 成国柱](https://cloudwego.feishu.cn/docs/doccnyu0JEq4DiKwuKATn3MxIOf)
@@ -47,3 +47,11 @@ remote 模块是 Kitex 实现的 RPC 核心，是与远端交互的重要模块�
 - trans handler
 - codec
 - payloadCodec
+
+
+## Hertz
+
+### 学习资料
+- [github/cloudwego/hertz](https://github.com/cloudwego/hertz)
+- [cloudwego.io/hertz](https://www.cloudwego.io/zh/docs/hertz/)
+- [[CSG第二期]分享01. 从精通烤肉到精通http](https://meetings.feishu.cn/s/1i38ftnck0f18?src_type=3)
