@@ -55,3 +55,4 @@ remote 模块是 Kitex 实现的 RPC 核心，是与远端交互的重要模块�
 - [github/cloudwego/hertz](https://github.com/cloudwego/hertz)
 - [cloudwego.io/hertz](https://www.cloudwego.io/zh/docs/hertz/)
 - [[CSG第二期]分享01. 从精通烤肉到精通http](https://meetings.feishu.cn/s/1i38ftnck0f18?src_type=3)
+- [[CSG第二期]分享02. 如何利用命令行工具HZ快速开发Hertz服务](https://meetings.feishu.cn/s/1i3fsqit6jchu?src_type=3)
