@@ -23,8 +23,7 @@
 ### 整体性设计
 - [从 CloudWeGo 谈云原生时代的微服务与开源](https://mp.weixin.qq.com/s/xWxb84WkYtWTBoVV3mzs6g)
 - Kitex 模块划分及调用链路
-- Kitex 扩展性设计
-- Kitex 设计思想
+- [Kitex 扩展性设计思路](https://xie.infoq.cn/article/50c36c2a3daa25a68da3d7a89)
 
 ### 服务治理
 - 服务注册与发现
