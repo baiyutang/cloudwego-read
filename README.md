@@ -12,13 +12,13 @@
 ## Kitex
 
 ### 学习资料
-- [github/cloudwego/kitex](https://github.com/cloudwego/kitex)
-- [cloudwego.io/kitex](https://www.cloudwego.io/zh/docs/kitex/)
-- [字节跳动微服务架构体系演进 - 成国柱](https://cloudwego.feishu.cn/docs/doccnyu0JEq4DiKwuKATn3MxIOf)
-- [Go 组件设计与实现 - 掘金小册](https://juejin.cn/video/7046282096435789835)
-- [字节杨芮：微服务框架 Kitex 的设计、实践及开源 - 得物技术分享](https://github.com/baiyutang/cloudwego-read/files/9157661/Kitex.pdf)
-- [Go 微服务框架 Kitex 扩展性设计和实践 | JTalk Meetup 11期](https://www.bilibili.com/video/BV1qa4y1H7i2)
-- [CloudWeGo 社区对外 Meetup](https://github.com/cloudwego/community/tree/main/meetup)
+- [【仓库】github/cloudwego/kitex](https://github.com/cloudwego/kitex)
+- [【官网】cloudwego.io/kitex](https://www.cloudwego.io/zh/docs/kitex/)
+- [【文章】字节跳动微服务架构体系演进](https://mp.weixin.qq.com/s/1dgCQXpeufgMTMq_32YKuQ)
+- [【掘金小册】Go 组件设计与实现](https://juejin.cn/video/7046282096435789835)
+- [【文件】字节杨芮：微服务框架 Kitex 的设计、实践及开源](https://github.com/baiyutang/cloudwego-read/files/9157661/Kitex.pdf)
+- [【视频】Go 微服务框架 Kitex 扩展性设计和实践 | JTalk Meetup 11期](https://www.bilibili.com/video/BV1qa4y1H7i2)
+- [【PDF集合】CloudWeGo 社区对外 Meetup](https://github.com/cloudwego/community/tree/main/meetup)
 
 ### 整体性设计
 - [从 CloudWeGo 谈云原生时代的微服务与开源](https://mp.weixin.qq.com/s/xWxb84WkYtWTBoVV3mzs6g)
