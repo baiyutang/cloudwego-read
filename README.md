@@ -27,7 +27,7 @@
 
 ### 服务治理
 - [服务注册](https://xie.infoq.cn/article/3b71488fc9b07f89f8950f8df) / [服务发现](https://xie.infoq.cn/article/ac5c8ce0c063a271e48d53423)
-- 熔断
+- [熔断](https://xie.infoq.cn/article/04253a336fb608c9ae5fbd2eb)
 - [限流](https://xie.infoq.cn/article/408cd95d469ee2cdc72c1cd10)
 - 请求重试
 - 负载均衡
