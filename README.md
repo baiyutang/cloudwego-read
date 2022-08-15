@@ -19,6 +19,7 @@
 - [【文件】字节杨芮：微服务框架 Kitex 的设计、实践及开源](https://github.com/baiyutang/cloudwego-read/files/9157661/Kitex.pdf)
 - [【视频】Go 微服务框架 Kitex 扩展性设计和实践 | JTalk Meetup 11期](https://www.bilibili.com/video/BV1qa4y1H7i2)
 - [【PDF集合】CloudWeGo 社区对外 Meetup](https://github.com/cloudwego/community/tree/main/meetup)
+- [为什么应该参与开源项目](https://xie.infoq.cn/article/da498a0b9dcf7bc8cfc46b36b)
 
 ### 整体性设计
 - [从 CloudWeGo 谈云原生时代的微服务与开源](https://mp.weixin.qq.com/s/xWxb84WkYtWTBoVV3mzs6g)
