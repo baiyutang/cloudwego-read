@@ -4,10 +4,11 @@
 
 主要项目：
 - Kitex：高性能、强可扩展的 Golang RPC 框架
+- Hertz：[həːts] Golang 微服务 HTTP 框架
+- Volo：轻量级、高性能、可扩展性强、易用性好的 Rust RPC 框架，使用了 Rust 最新的 GAT 特性， Volo 使用 Motore 作为中间件抽象层，Motore 基于 GAT 设计
 - Netpoll：高性能、I/O 非阻塞、专注于 RPC 场景的网络框架
 - Thriftgo：Golang 实现的 Thrift 编译器，支持插件机制和语义检查
 - Netpoll-http2：基于 Netpoll 的 HTTP/2 实现
-- Hertz：[həːts] Golang 微服务 HTTP 框架
 
 ## Kitex
 
@@ -56,3 +57,9 @@ remote 模块是 Kitex 实现的 RPC 核心，是与远端交互的重要模块�
 - [cloudwego.io/hertz](https://www.cloudwego.io/zh/docs/hertz/)
 - [[CSG第二期]分享01. 从精通烤肉到精通http](https://meetings.feishu.cn/s/1i38ftnck0f18?src_type=3)
 - [[CSG第二期]分享02. 如何利用命令行工具HZ快速开发Hertz服务](https://meetings.feishu.cn/s/1i3fsqit6jchu?src_type=3)
+
+
+## Volo
+
+### 学习资料
+- [【直播回放】探索 Rust 世界](https://meetings.feishu.cn/s/1ib1i995fy4u9?src_type=3)
